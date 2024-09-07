@@ -20,7 +20,8 @@ This repository contains Python scripts for web scraping job listings from **Wuz
 - BeautifulSoup4
 - Requests
 - Pandas (for data manipulation)
-- Make sure you have the following libraries installed before running the scripts:
+  
+## Make sure you have the following libraries installed before running the scripts:
 
 - **requests:** For making HTTP requests to web pages.
 - **beautifulsoup4 (bs4):** For parsing HTML and extracting data.
